@@ -171,21 +171,6 @@ Travel platform with React frontend and public API integration.
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td width="60%">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-taherm&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false)
-
-</td>
-<td width="40%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-taherm&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false)
-
-</td>
-  </tr>
-</table>
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=dev-taherm&theme=github-dark-blue&background=0d1117&border=30363d)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-taherm&bg_color=0d1117&color=44b78b&line=00d4aa&point=ffffff&area=true&area_color=44b78b&hide_border=false)
