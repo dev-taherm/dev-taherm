@@ -124,44 +124,20 @@ I design AI systems that interact with real-world business workflows. My focus i
   <tr>
     <td width="50%">
 
-**[Anqas-backend](https://github.com/dev-taherm/Anqas-backend)**
-Backend API service built with Django REST Framework for business automation.
+**[Contro](https://github.com/dev-taherm/Contro)**
+Open-source headless CMS framework built with Django. This repository is a work in progress that targets feature parity with Strapi: dynamic content types, auto-generated REST/GraphQL APIs, media management, and more.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MIT License](https://img.shields.io/badge/-MIT%20License-yellow?style=flat)
 
 </td>
 <td width="50%">
 
-**[web-scraping-Nextjs](https://github.com/dev-taherm/web-scraping-Nextjs)**
-Full-stack web scraping platform with Next.js frontend and automated data extraction.
+**[my-profile-oc](https://github.com/dev-taherm/my-profile-oc)**
+Personal profile repository.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%">
-
-**[full-laravel-vue](https://github.com/dev-taherm/full-laravel-vue)**
-Full-stack application with Laravel backend and Vue.js frontend architecture.
-
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-
-</td>
-<td width="50%">
-
-**[Travel-React-Public-Api](https://github.com/dev-taherm/Travel-React-Public-Api)**
-Travel platform with React frontend and public API integration.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![API](https://img.shields.io/badge/-REST%20API-009688?style=flat)
 
 </td>
   </tr>
