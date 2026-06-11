@@ -124,6 +124,18 @@ I design AI systems that interact with real-world business workflows. My focus i
   <tr>
     <td width="50%">
 
+**[LeadPilot](https://github.com/dev-taherm/LeadPilot)**
+AI-powered multi-tenant SaaS platform for lead qualification, follow-ups, and customer engagement through intelligent autonomous agents.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![MIT License](https://img.shields.io/badge/-MIT%20License-yellow?style=flat)
+
+</td>
+<td width="50%">
+
 **[Contro](https://github.com/dev-taherm/Contro)**
 Open-source headless CMS framework built with Django. This repository is a work in progress that targets feature parity with Strapi: dynamic content types, auto-generated REST/GraphQL APIs, media management, and more.
 
@@ -132,7 +144,9 @@ Open-source headless CMS framework built with Django. This repository is a work 
 ![MIT License](https://img.shields.io/badge/-MIT%20License-yellow?style=flat)
 
 </td>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%">
 
 **[my-profile-oc](https://github.com/dev-taherm/my-profile-oc)**
 Personal profile repository.
