@@ -149,9 +149,13 @@ Open-source headless CMS framework built with Django. This repository is a work 
     <td width="50%">
 
 **[my-profile-oc](https://github.com/dev-taherm/my-profile-oc)**
-Personal profile repository.
+Production-ready, multilingual portfolio and career website built with Next.js 16, Prisma, and Tailwind CSS. Features admin dashboard, blog, SEO, dark/light mode, and RTL support.
 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![MIT License](https://img.shields.io/badge/-MIT%20License-yellow?style=flat)
 
 </td>
   </tr>
