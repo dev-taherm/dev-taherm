@@ -124,6 +124,20 @@ I design AI systems that interact with real-world business workflows. My focus i
   <tr>
     <td width="50%">
 
+**[Tujjar](https://github.com/dev-taherm/Tujjar)**
+AI-powered, open-source e-commerce platform. Drag-and-drop page builder, 6 AI providers, multi-tenant SaaS architecture, full REST API. Django + Next.js + PostgreSQL.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![MIT License](https://img.shields.io/badge/-MIT%20License-yellow?style=flat)
+
+</td>
+<td width="50%">
+
 **[LeadPilot](https://github.com/dev-taherm/LeadPilot)**
 AI-powered multi-tenant SaaS platform for lead qualification, follow-ups, and customer engagement through intelligent autonomous agents.
 
@@ -134,7 +148,9 @@ AI-powered multi-tenant SaaS platform for lead qualification, follow-ups, and cu
 ![MIT License](https://img.shields.io/badge/-MIT%20License-yellow?style=flat)
 
 </td>
-<td width="50%">
+  </tr>
+  <tr>
+    <td width="50%">
 
 **[Contro](https://github.com/dev-taherm/Contro)**
 Open-source headless CMS framework built with Django. This repository is a work in progress that targets feature parity with Strapi: dynamic content types, auto-generated REST/GraphQL APIs, media management, and more.
@@ -144,9 +160,7 @@ Open-source headless CMS framework built with Django. This repository is a work 
 ![MIT License](https://img.shields.io/badge/-MIT%20License-yellow?style=flat)
 
 </td>
-  </tr>
-  <tr>
-    <td width="50%">
+<td width="50%">
 
 **[my-profile-oc](https://github.com/dev-taherm/my-profile-oc)**
 Production-ready, multilingual portfolio and career website built with Next.js 16, Prisma, and Tailwind CSS. Features admin dashboard, blog, SEO, dark/light mode, and RTL support.
